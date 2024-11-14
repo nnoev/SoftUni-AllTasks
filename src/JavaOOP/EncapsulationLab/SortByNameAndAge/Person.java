@@ -1,4 +1,4 @@
-package SortByNameAndAge;
+package EncapsulationLab.SortByNameAndAge;
 
 public class Person {
    private String firstName;
