@@ -1,10 +1,10 @@
-package EncapsulationLab.ValidationData;
+package JavaOOP.EncapsulationLab.ValidationData;
 
 public class Person {
-   private String firstName;
-   private String lastName;
-   private  int age;
-   private  double salary;
+    private String firstName;
+    private String lastName;
+    private  int age;
+    private  double salary;
 
     public Person(String firstName, String lastName, int age, double salary) {
 
