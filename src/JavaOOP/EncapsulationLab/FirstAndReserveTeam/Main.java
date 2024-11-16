@@ -1,4 +1,4 @@
-package JavaOOP.EncapsulationLab.SalaryIncrease;
+package JavaOOP.EncapsulationLab.FirstAndReserveTeam;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -15,10 +15,13 @@ public class Main {
             String[] input = reader.readLine().split(" ");
             people.add(new Person(input[0], input[1], Integer.parseInt(input[2]), Double.parseDouble(input[3])));
         }
-        double bonus = Double.parseDouble(reader.readLine());
-        for (Person person : people) {
-            person.increaseSalary(bonus);
-            System.out.println(person);
+        Team team = new Team("Black Eagles");
+        for (Person person:people){
+            team.addPlayer(person);
         }
+        System.out.println("First team have " + team.getFirstTeam().size()+" players");
+        System.out.println("Reserve team have " + team.getReserveTeam().size()+" players");
     }
+
+
 }

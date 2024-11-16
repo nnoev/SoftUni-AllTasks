@@ -1,15 +1,16 @@
-package EncapsulationLab.SalaryIncrease;
- class Person {
-   private String firstName;
-   private String lastName;
-   private  int age;
-   private  double salary;
+package JavaOOP.EncapsulationLab.SalaryIncrease;
+
+public class Person {
+    private String firstName;
+    private String lastName;
+    private int age;
+    private double salary;
 
     public Person(String firstName, String lastName, int age, double salary) {
         this.firstName = firstName;
         this.lastName = lastName;
         this.age = age;
-        this.salary=salary;
+        this.salary = salary;
     }
 
     public String getFirstName() {
@@ -46,13 +47,14 @@ package EncapsulationLab.SalaryIncrease;
 
     @Override
     public String toString() {
-        return String.format("%s %s gets %f leva.",this.firstName,this.lastName,this.salary);
+        return String.format("%s %s gets %f leva.", this.firstName, this.lastName, this.salary);
     }
+
     public void increaseSalary(double bonus) {
-        if (this.age<30){
-            this.salary+=salary*0.5*bonus/100;
-        }else {
-            this.salary+=salary*bonus/100;
+        if (this.age < 30) {
+            this.salary += salary * 0.5 * bonus / 100;
+        } else {
+            this.salary += salary * bonus / 100;
         }
     }
 }
