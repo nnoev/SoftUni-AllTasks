@@ -42,11 +42,11 @@ public class Item {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Item item = (Item) o;
-        return amount == item.amount && Objects.equals(name, item.name) && itemType == item.itemType;
+        return Objects.equals(name, item.name) && itemType == item.itemType;
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(name, amount, itemType);
+        return Objects.hash(name, itemType);
     }
 }
