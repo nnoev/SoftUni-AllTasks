@@ -1,4 +1,4 @@
-package JavaOOP.EncapsulationLab.ValidationData;
+package ValidationData;
 
 public class Person {
     private String firstName;

@@ -1,4 +1,4 @@
-package JavaOOP.EncapsulationLab.SalaryIncrease;
+package SalaryIncrease;
 
 public class Person {
     private String firstName;

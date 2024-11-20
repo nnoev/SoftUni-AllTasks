@@ -1,4 +1,4 @@
-package JavaOOP.WorkingWithAbstractionLab.HotelReservation;
+package HotelReservation;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package JavaOOP.EncapsulationLab.SortByNameAndAge;
+package SortByNameAndAge;
 
 class Person {
    private String firstName;

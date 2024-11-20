@@ -1,4 +1,4 @@
-package JavaOOP.EncapsulationLab.FirstAndReserveTeam;
+package FirstAndReserveTeam;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -15,7 +15,7 @@ public class Main {
             String[] input = reader.readLine().split(" ");
             people.add(new Person(input[0], input[1], Integer.parseInt(input[2]), Double.parseDouble(input[3])));
         }
-        Team team = new Team("Black Eagles");
+       Team team = new Team("Black Eagles");
         for (Person person:people){
             team.addPlayer(person);
         }

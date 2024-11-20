@@ -1,4 +1,4 @@
-package JavaOOP.EncapsulationLab.FirstAndReserveTeam;
+package FirstAndReserveTeam;
 
 
 import java.util.ArrayList;

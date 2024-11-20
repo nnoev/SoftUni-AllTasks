@@ -1,4 +1,4 @@
-package JavaOOP.EncapsulationLab.SalaryIncrease;
+package SalaryIncrease;
 
 import java.io.BufferedReader;
 import java.io.IOException;

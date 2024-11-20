@@ -1,4 +1,4 @@
-package JavaOOP.WorkingWithAbstractionExrecise.GreedyTimes;
+package GreedyTimes;
 
 public enum ItemType {
     Gold,

@@ -1,4 +1,4 @@
-package JavaOOP.WorkingWithAbstractionExrecise.GreedyTimes;
+package GreedyTimes;
 
 import java.util.ArrayList;
 import java.util.LinkedHashMap;

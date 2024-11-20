@@ -1,4 +1,4 @@
-package JavaOOP.WorkingWithAbstractionLab.HotelReservation;
+package HotelReservation;
 
 public enum DiscountType {
     VIP(0.8),

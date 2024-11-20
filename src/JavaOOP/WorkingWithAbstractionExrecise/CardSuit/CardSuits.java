@@ -1,4 +1,4 @@
-package JavaOOP.WorkingWithAbstractionExrecise.CardSuit;
+package CardSuit;
 
 public enum CardSuits {
     CLUBS,
