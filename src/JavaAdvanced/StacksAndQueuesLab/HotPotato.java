@@ -14,6 +14,7 @@ public class HotPotato {
             player.offer(names[i]);
         }
         while (player.size() > 1) {
+
             for (int i = 1; i < n; i++) {
                 String add = player.peek();
                 player.poll();

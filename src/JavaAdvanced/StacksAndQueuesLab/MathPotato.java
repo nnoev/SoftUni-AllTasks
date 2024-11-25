@@ -1,6 +1,7 @@
 package JavaAdvanced.StacksAndQueuesLab;
 
 import java.util.ArrayDeque;
+import java.util.PriorityQueue;
 import java.util.Scanner;
 
 public class MathPotato {
@@ -11,24 +12,22 @@ public class MathPotato {
         int n = Integer.parseInt(scanner.nextLine());
         int count = 0;
         String[] names = text.split(" ");
-        ArrayDeque<String> players = new ArrayDeque<>();
+        PriorityQueue<String> player = new PriorityQueue<>();
+
         for (int i = 0; i <= names.length - 1; i++) {
-            players.offer(names[i]);
+            player.offer(names[i]);
         }
-        while (players.size() > 1) {
+        while (player.size() > 1) {
+                String kid = player.poll();
             count++;
-            for (int i = 0; i < n; i++) {
-                String add = players.peek();
-                players.poll();
-                players.offer(add);
-            }
             if (isPrime(count)) {
-                System.out.printf("Prime %s\n", players.peek());
+                System.out.printf("Prime %s\n", kid);
+                player.offer(kid);
             } else {
-                System.out.printf("Removed %s%n", players.poll());
+                System.out.printf("Removed %s%n", kid);
             }
         }
-        System.out.printf("Last is %s", players.peek());
+        System.out.printf("Last is %s", player.peek());
     }
 
     private static boolean isPrime(int count) {
@@ -36,7 +35,7 @@ public class MathPotato {
             return false;
         }
 
-        for (int i = 2; i <= Math.sqrt(count); i++) {
+        for (int i = 2; i <= count-1; i++) {
             if (count % i == 0) {
                 return false;
             }

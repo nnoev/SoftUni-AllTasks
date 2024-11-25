@@ -1,5 +1,5 @@
 
-package JavaOOP.WorkingWithAbstractionExrecise.GreedyTimes;
+package GreedyTimes;
 
 import java.util.Scanner;
 
