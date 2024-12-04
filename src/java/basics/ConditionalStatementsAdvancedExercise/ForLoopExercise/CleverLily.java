@@ -1,4 +1,4 @@
-package For.loop.exercise.exercise;
+package java.basics.ConditionalStatementsAdvancedExercise.ForLoopExercise;
 
 import java.util.Scanner;
 
