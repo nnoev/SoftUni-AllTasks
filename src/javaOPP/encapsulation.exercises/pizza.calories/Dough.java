@@ -1,4 +1,4 @@
-package javaOPP.encapsulation.exercises.pizza.calories;
+package encapsulation.exercises.pizza.calories;
 
 public class Dough {
     private String flourType;

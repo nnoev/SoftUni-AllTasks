@@ -1,4 +1,4 @@
-package javaOPP.inheritance.lab.hierarchical.inheritance;
+package inheritance.lab.hierarchical.inheritance;
 
 public class Cat extends Animal {
     public  void meow(){

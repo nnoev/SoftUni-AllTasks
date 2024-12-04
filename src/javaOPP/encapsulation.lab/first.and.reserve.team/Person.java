@@ -1,4 +1,4 @@
-package javaOPP.encapsulation.lab.first.and.reserve.team;
+package encapsulation.lab.first.and.reserve.team;
 
 public class Person {
     private String firstName;

@@ -1,4 +1,4 @@
-package javaOPP.person;
+package person;
 
 public class Person {
     private String name;

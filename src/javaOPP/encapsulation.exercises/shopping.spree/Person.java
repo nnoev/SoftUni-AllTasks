@@ -1,4 +1,4 @@
-package javaOPP.encapsulation.exercises.shopping.spree;
+package encapsulation.exercises.shopping.spree;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package javaOPP.working.with.abstraction.exrecise.cards.with.power;
+package working.with.abstraction.exrecise.cards.with.power;
 
 public enum CardsRanks {
     ACE(14),

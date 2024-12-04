@@ -1,4 +1,4 @@
-package javaOPP.inheritance.lab.stack.of.strings;
+package inheritance.lab.stack.of.strings;
 
 public class Main {
     public static void main(String[] args) {

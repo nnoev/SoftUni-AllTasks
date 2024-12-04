@@ -1,4 +1,4 @@
-    package javaOPP.encapsulation.exercises.animal.farm;
+    package encapsulation.exercises.animal.farm;
 
 public class Chicken {
     private String name;

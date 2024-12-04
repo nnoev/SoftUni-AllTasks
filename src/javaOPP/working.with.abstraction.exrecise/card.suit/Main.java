@@ -1,4 +1,4 @@
-package javaOPP.working.with.abstraction.exrecise.card.suit;
+package working.with.abstraction.exrecise.card.suit;
 
 import java.util.Scanner;
 

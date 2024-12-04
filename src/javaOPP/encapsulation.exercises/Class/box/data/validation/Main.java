@@ -1,4 +1,4 @@
-package javaOPP.encapsulation.exercises.Class.box.data.validation;
+package encapsulation.exercises.Class.box.data.validation;
 
 import java.util.Scanner;
 

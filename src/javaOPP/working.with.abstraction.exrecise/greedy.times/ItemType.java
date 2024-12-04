@@ -1,4 +1,4 @@
-package javaOPP.working.with.abstraction.exrecise.greedy.times;
+package working.with.abstraction.exrecise.greedy.times;
 
 public enum ItemType {
     Gold,

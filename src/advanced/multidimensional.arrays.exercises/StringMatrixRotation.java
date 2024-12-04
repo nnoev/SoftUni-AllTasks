@@ -1,4 +1,4 @@
-package advanced.multidimensional.arrays.exercises;
+package multidimensional.arrays.exercises;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;

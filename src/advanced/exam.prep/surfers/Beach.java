@@ -1,4 +1,4 @@
-package advanced.exam.prep.surfers;
+package exam.prep.surfers;
 
 import java.util.ArrayList;
 import java.util.Comparator;

@@ -1,4 +1,4 @@
-package advanced.exam.prep;
+package exam.prep;
 
 import java.util.Arrays;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package javaOPP.inheritance.lab.single.inheritance;
+package inheritance.lab.single.inheritance;
 
 public class Main {
     public static void main(String[] args) {

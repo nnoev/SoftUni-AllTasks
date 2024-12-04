@@ -1,4 +1,4 @@
-package javaOPP.encapsulation.exercises.pizza.calories;
+package encapsulation.exercises.pizza.calories;
 
 import java.util.ArrayList;
 import java.util.List;

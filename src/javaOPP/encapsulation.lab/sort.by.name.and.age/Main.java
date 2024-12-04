@@ -1,4 +1,4 @@
-package javaOPP.encapsulation.lab.sort.by.name.and.age;
+package encapsulation.lab.sort.by.name.and.age;
 
 import java.io.BufferedReader;
 import java.io.IOException;

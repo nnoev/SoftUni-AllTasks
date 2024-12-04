@@ -1,4 +1,4 @@
-package javaOPP.working.with.abstraction.lab.hotel.reservation;
+package working.with.abstraction.lab.hotel.reservation;
 
 public enum Season {
 

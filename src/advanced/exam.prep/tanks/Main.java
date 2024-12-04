@@ -1,4 +1,4 @@
-package advanced.exam.prep.tanks;
+package exam.prep.tanks;
 
 public class Main {
     public static void main(String[] args) {

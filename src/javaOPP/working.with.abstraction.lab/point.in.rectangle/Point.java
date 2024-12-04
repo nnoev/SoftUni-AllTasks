@@ -1,4 +1,4 @@
-package javaOPP.working.with.abstraction.lab.point.in.rectangle;
+package working.with.abstraction.lab.point.in.rectangle;
 
 public class Point {
         int cordinatesX;

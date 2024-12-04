@@ -1,4 +1,4 @@
-package javaOPP.encapsulation.lab.sort.by.name.and.age;
+package encapsulation.lab.sort.by.name.and.age;
 
 class Person {
    private String firstName;

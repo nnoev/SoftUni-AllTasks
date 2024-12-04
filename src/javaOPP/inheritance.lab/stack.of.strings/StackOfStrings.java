@@ -1,4 +1,4 @@
-package javaOPP.inheritance.lab.stack.of.strings;
+package inheritance.lab.stack.of.strings;
 
 import java.util.ArrayList;
 

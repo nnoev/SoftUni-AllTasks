@@ -1,4 +1,4 @@
-package javaOPP.inheritance.lab.hierarchical.inheritance;
+package inheritance.lab.hierarchical.inheritance;
 
 public class Dog extends Animal{
     public void bark(){

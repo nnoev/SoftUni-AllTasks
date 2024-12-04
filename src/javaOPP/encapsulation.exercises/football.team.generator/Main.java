@@ -1,4 +1,4 @@
-package javaOPP.encapsulation.exercises.football.team.generator;
+package encapsulation.exercises.football.team.generator;
 
 import java.util.LinkedHashMap;
 import java.util.Map;

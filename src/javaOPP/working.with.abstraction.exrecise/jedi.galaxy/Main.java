@@ -1,4 +1,4 @@
-package javaOPP.working.with.abstraction.exrecise.jedi.galaxy;
+package working.with.abstraction.exrecise.jedi.galaxy;
 
 import java.util.Arrays;
 import java.util.Scanner;

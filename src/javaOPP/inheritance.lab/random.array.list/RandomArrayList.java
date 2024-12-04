@@ -1,4 +1,4 @@
-package javaOPP.inheritance.lab.random.array.list;
+package inheritance.lab.random.array.list;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package advanced.exam.prep.surfers;
+package exam.prep.surfers;
 
 public class Surfer {
 private String name;

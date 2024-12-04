@@ -1,4 +1,4 @@
-package javaOPP.working.with.abstraction.lab.student.system;
+package working.with.abstraction.lab.student.system;
 
 public class Student {
     private final String name;

@@ -1,4 +1,4 @@
-package javaOPP.working.with.abstraction.lab.rhombus.of.stars;
+package working.with.abstraction.lab.rhombus.of.stars;
 
 import java.util.Scanner;
 

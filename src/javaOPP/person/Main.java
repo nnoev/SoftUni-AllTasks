@@ -1,4 +1,4 @@
-package javaOPP.person;
+package person;
 
 import java.util.Scanner;
 

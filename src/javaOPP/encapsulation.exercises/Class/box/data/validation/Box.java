@@ -1,4 +1,4 @@
-package javaOPP.encapsulation.exercises.Class.box.data.validation;
+package encapsulation.exercises.Class.box.data.validation;
 
 public class Box {
     private double length;

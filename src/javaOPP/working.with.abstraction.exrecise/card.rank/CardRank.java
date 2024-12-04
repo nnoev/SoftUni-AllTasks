@@ -1,4 +1,4 @@
-package javaOPP.working.with.abstraction.exrecise.card.rank;
+package working.with.abstraction.exrecise.card.rank;
 
 public enum CardRank {
     ACE,
