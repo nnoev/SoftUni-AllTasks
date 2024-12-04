@@ -12,6 +12,16 @@
       <sourceFolder url="file://$MODULE_DIR$/src/JavaOOP/WorkingWithAbstractionLab" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/JavaOOP/InheritanceLab" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/JavaOOP/InheritanceExercises" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/java.advanced" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/java.basics" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/java.fundamentals" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/java.oop" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/java.oop/encapsulation.exercises" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/java.oop/encapsulation.lab" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/java.oop/inheritance.exercises" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/java.oop/inheritance.lab" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/java.oop/working.with.abstraction.exrecise" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/java.oop/working.with.abstraction.lab" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="openjdk-23" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
