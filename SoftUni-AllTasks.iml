@@ -24,6 +24,13 @@
       <sourceFolder url="file://$MODULE_DIR$/src/java.oop/working.with.abstraction.lab" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/advanced" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/javaOPP" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/javaOPP/Working" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/javaOPP/encapsulation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/javaOPP/encapsulation/exercises" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/javaOPP/encapsulation/lab" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/javaOPP/inheritance" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/javaOPP/inheritance/exercise" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/javaOPP/inheritance/lab" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="openjdk-23" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
