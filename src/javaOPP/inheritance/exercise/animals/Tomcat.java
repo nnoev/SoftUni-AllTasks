@@ -1,13 +1,14 @@
 package animals;
 
-public class Dog extends Animal{
+public class Tomcat extends Cat{
 
 
-    public Dog(String name, int age, String gender) {
+    public Tomcat(String name, int age, String gender) {
         super(name, age, gender);
     }
     @Override
     public String produceSound(){
-        return "Woof";
+        return "MEOW";
     }
+
 }

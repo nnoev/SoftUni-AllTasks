@@ -1,4 +1,4 @@
-package Class.box.data.validation;
+package ClassBoxDataValidation;
 
 public class Box {
     private double length;
