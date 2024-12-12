@@ -1,4 +1,4 @@
-package exam.prep.tanks;
+package tanks;
 
 import java.util.ArrayList;
 import java.util.List;

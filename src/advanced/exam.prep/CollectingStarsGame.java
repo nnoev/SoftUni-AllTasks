@@ -125,16 +125,16 @@ public class CollectingStarsGame {
         field[playerPosition[0]][playerPosition[1]]='P';
     }
 
-    private static void findPlayer(char[][] field, int[] playerPosition) {
-        for (int i = 0; i <= field.length - 1; i++) {
-            for (int j = 0; j <= field[i].length - 1; j++) {
-                if (field[i][j] == 'P') {
-                    playerPosition[0] = i;
-                    playerPosition[1] = j;
+        private static void findPlayer(char[][] field, int[] playerPosition) {
+            for (int i = 0; i <= field.length - 1; i++) {
+                for (int j = 0; j <= field[i].length - 1; j++) {
+                    if (field[i][j] == 'P') {
+                        playerPosition[0] = i;
+                        playerPosition[1] = j;
+                    }
                 }
             }
         }
-    }
 
     private static void fillField(char[][] field, Scanner scanner) {
         for (int i = 0; i <= field.length - 1; i++) {

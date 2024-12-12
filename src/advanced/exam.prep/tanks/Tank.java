@@ -1,4 +1,4 @@
-package exam.prep.tanks;
+package tanks;
 
 public class Tank {
     private final String brand;

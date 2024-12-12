@@ -1,4 +1,4 @@
-package exam.prep.surfers;
+package surfers;
 
 public class Main {
     public static void main(String[] args) {
