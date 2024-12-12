@@ -7,9 +7,9 @@ public class Animal {
 
 
     public Animal(String name, int age, String gender) {
-        this.setName(name);
-        this.setAge(age);
-        this.setGender(gender);
+        setName(name);
+        setAge(age);
+        setGender(gender);
     }
 
     public String produceSound() {

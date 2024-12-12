@@ -9,7 +9,6 @@ public class Main {
         while (!command.equals("Beast!")) {
             String[] parameters = scanner.nextLine().split(" ");
             try {
-
                 switch (command) {
                     case "Cat":
                         Cat cat = new Cat(parameters[0], Integer.parseInt(parameters[1]), parameters[2]);
@@ -24,14 +23,13 @@ public class Main {
                         System.out.println(frog);
                         break;
                     case "Kitten":
-                        Kitten kitten = new Kitten(parameters[0], Integer.parseInt(parameters[1]), parameters[2]);
+                        Kitten kitten = new Kitten(parameters[0], Integer.parseInt(parameters[1]));
                         System.out.println(kitten);
                         break;
                     case "Tomcat":
-                        Tomcat tomcat = new Tomcat(parameters[0], Integer.parseInt(parameters[1]), parameters[2]);
+                        Tomcat tomcat = new Tomcat(parameters[0], Integer.parseInt(parameters[1]));
                         System.out.println(tomcat);
                         break;
-
                 }
             } catch (IllegalArgumentException ex) {
                 System.out.println(ex.getMessage());
