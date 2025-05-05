@@ -33,6 +33,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/javaOPP/working.with.abstraction" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/advanced/exam" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/advanced/exam.prep" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/HTML&amp;CSS" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="openjdk-23" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
